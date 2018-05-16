@@ -1,0 +1,21 @@
+.Title,
+.Value,
+.ButtonPredict {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+h3 {
+  text-align: center;
+  margin: 5px;
+}
+body {
+  width: 400px;
+  height: 200px;
+  border: 1px dashed salmon;
+}
+
+button,
+p {
+  margin: 5px;
+}
